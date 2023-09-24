@@ -1,0 +1,13 @@
+h1,h2{
+    color:black;background-color: rgb(113, 109, 109);
+}
+body{
+    background-color:#cbcbba
+}
+img{
+    border: 1px solid black;
+}
+img{
+    border: 1px solid black;
+    border-radius: 50%;
+}
