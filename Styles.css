@@ -1,13 +1,48 @@
-h1,h2{
-    color:black;background-color: rgb(113, 109, 109);
+h1,
+h2 {
+    color: black;
+    background-color: rgb(176, 171, 171);
+    border: 1px solid black;
+    border-radius: 4px;
+    padding-left: 1rem;
 }
-body{
-    background-color:#cbcbba
+
+body {
+    background-color: #9d9d97
+    
 }
-img{
+
+img {
     border: 1px solid black;
 }
-img{
+
+img {
     border: 1px solid black;
     border-radius: 50%;
 }
+
+.item {
+    list-style-type: none;
+}
+
+    {
+    text-align: left;
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    width: 70%;height: 30px;
+}
+
+.item{
+    text-align: justify;
+}
+body{
+    padding: 1.5rem;
+    background-color: #303134;
+    color: #ECECF1;
+    }
+
